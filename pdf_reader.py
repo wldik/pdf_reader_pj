@@ -27,13 +27,3 @@ sound = tts.TTS("Testing!!", speaker= tts.speakers[0], language= tts.languages[0
 
 
 
-
-# TESTS
-path = "/home/vladk/Downloads/rin.pdf"
-#print(get_text_from_pdf(path))
-
-
-
-
-
-
