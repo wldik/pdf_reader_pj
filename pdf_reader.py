@@ -38,7 +38,4 @@ def pdf_read_aloud():
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 48999e5 (read aloud for 1 page)
